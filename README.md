@@ -1,5 +1,7 @@
 # statement
-"if you can vibe code an app, you should be able to vibe code your OS" DHH in Lex Friedmans pod: youtube.com/watch?t=7104&v=NYFGCESmikA&feature=youtu.be 
+"if you can vibe code an app, you should be able to vibe code your OS" DHH in Lex Friedmans pod: 
+
+youtube.com/watch?t=7104&v=NYFGCESmikA&feature=youtu.be 
 
 # Omarchy Agent OS
 
